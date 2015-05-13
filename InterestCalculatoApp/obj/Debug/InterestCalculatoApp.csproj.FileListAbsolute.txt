@@ -1,0 +1,9 @@
+E:\SEIP_Practice\InterestCalculatoApp\InterestCalculatoApp\bin\Debug\InterestCalculatoApp.exe.config
+E:\SEIP_Practice\InterestCalculatoApp\InterestCalculatoApp\bin\Debug\InterestCalculatoApp.exe
+E:\SEIP_Practice\InterestCalculatoApp\InterestCalculatoApp\bin\Debug\InterestCalculatoApp.pdb
+E:\SEIP_Practice\InterestCalculatoApp\InterestCalculatoApp\obj\Debug\InterestCalculatoApp.csprojResolveAssemblyReference.cache
+E:\SEIP_Practice\InterestCalculatoApp\InterestCalculatoApp\obj\Debug\InterestCalculatoApp.InterstCalculatorFOrm.resources
+E:\SEIP_Practice\InterestCalculatoApp\InterestCalculatoApp\obj\Debug\InterestCalculatoApp.Properties.Resources.resources
+E:\SEIP_Practice\InterestCalculatoApp\InterestCalculatoApp\obj\Debug\InterestCalculatoApp.csproj.GenerateResource.Cache
+E:\SEIP_Practice\InterestCalculatoApp\InterestCalculatoApp\obj\Debug\InterestCalculatoApp.exe
+E:\SEIP_Practice\InterestCalculatoApp\InterestCalculatoApp\obj\Debug\InterestCalculatoApp.pdb
